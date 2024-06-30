@@ -48,7 +48,7 @@ global.SESSION_ID =
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ",
-  author: process.env.PACK_AUTHER || "Sahan",
+  author: process.env.PACK_AUTHER || "Shana",
   packname: process.env.PACK_NAME || "MASTER-MD",
   botname: process.env.BOT_NAME || "•ᴍᴀꜱᴛᴇʀ-ᴍᴅ•",
   ownername: process.env.OWNER_NAME || "Sahan",
